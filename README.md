@@ -1,4 +1,4 @@
- Tutoriel : Comment fonctionne une blockchain
+ Tutoriel : Test & Initialisation 
 
 Ce guide explique les principes fondamentaux de la blockchain : blocs, hachage, consensus, sécurité, cas d'utilisation et décentralisation.
 
